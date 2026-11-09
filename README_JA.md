@@ -21,7 +21,7 @@
 
   <p align="center">
     <a href="https://archivetune.miuka.moe"><b>公式サイト</b></a> •
-    <a href="#features"><b>機能</b></a> •
+    <a href="#✨ 機能"><b>機能</b></a> •
     <a href="https://archivetune.miuka.moe/privacy"><b>プライバシー</b></a> •
     <a href="#download-now"><b>ダウンロード</b></a> •
     <a href="#screenshots"><b>スクリーンショット</b></a> •
